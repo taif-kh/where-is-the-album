@@ -1,4 +1,4 @@
-
+<img src="frontend/public/whereIsTheAlbum_index.jpg" alt="WhereIsTheAlbum">
 
 # Where is the Album? 🎵
 
