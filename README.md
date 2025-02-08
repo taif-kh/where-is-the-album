@@ -29,7 +29,7 @@
 ## 🚀 **Getting Started**
 
 ### Prerequisites
-- Node.js and MongoDB installed.
+- Node.js and PostgreSQL installed.
 
 ### Installation
 1. Clone the repository:
@@ -99,7 +99,7 @@ This project is licensed under the **MIT License**. For more details, see <a hre
 ## 🙏 Acknowledgments
 
 - React.js and Tailwind CSS for building a responsive and interactive frontend.
-- MongoDB for storing leaderboard data.
+- PostgreSQL for storing leaderboard data.
 - The music community for inspiring this nostalgic project.
 
 Made with ❤️ by Taif Khaskhoussi. Let's connect on <a href="https://www.linkedin.com/in/taif-khaskhoussi/" target="_blank" rel="noopener">LinkedIn</a>!
