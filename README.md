@@ -1,17 +1,10 @@
 <img src="frontend/public/whereIsTheAlbum_index.png" alt="WhereIsTheAlbum">
+<br />
 
-<div align="center">
-  <h3 align="center">🎵 Where is the Album? 🎵</h3>
+# Where is the Album? 🎵
 
-  <p align="center">
-    A Fun and Nostalgic Music Trivia Game
-    <br />
-  </p>
-</div>
+**A Fun and Nostalgic Music Trivia Game**
 
-</br>
-
-# About
 "Where is the Album?" is an interactive web-based game that tests users’ knowledge of iconic music albums from the past decade. Players match album names to their corresponding covers as quickly as possible, competing for a spot on the leaderboard.
 
 ---
