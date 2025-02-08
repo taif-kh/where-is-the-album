@@ -1,0 +1,9 @@
+.home-content {
+    opacity: 0; /* Hidden by default */
+    transition: opacity 1s ease-in; /* Smooth transition over 1 second */
+  }
+  
+  .home-content.fade-in {
+    opacity: 1; /* Fully visible when fade-in class is applied */
+  }
+  
