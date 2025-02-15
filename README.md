@@ -8,6 +8,7 @@
 "Where is the Album?" is an interactive web-based game that tests users’ knowledge of iconic music albums from the past decade. Players match album names to their corresponding covers as quickly as possible, competing for a spot on the leaderboard.
 
 It is developed using React.js, Epress.js, Node.js, and PostgreSQL.
+
 <br />
 
 <div align="center">
