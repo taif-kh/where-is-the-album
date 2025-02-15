@@ -7,6 +7,21 @@
 
 "Where is the Album?" is an interactive web-based game that tests users’ knowledge of iconic music albums from the past decade. Players match album names to their corresponding covers as quickly as possible, competing for a spot on the leaderboard.
 
+It is developed using React.js, Epress.js, Node.js, and PostgreSQL.
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+</div>
+
 ---
 
 ## ✨ **Features**
